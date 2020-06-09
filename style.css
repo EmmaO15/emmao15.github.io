@@ -19,10 +19,17 @@ img {
   border-style: double;
   border-radius: 10px;
   margin: 15px;
+  float: left;
 }
 .plist {
   border-style: dotted;
   border-radius: 10px;
   border-width: 3px;
   background-color: blanchedalmond;
+}
+.pqbbl {
+  float: right;
+}
+.TFSFdiv {
+  float: left;
 }
