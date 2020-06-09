@@ -1,0 +1,28 @@
+body {
+  background-color:bisque;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  font-family: cursive;
+  text-align: center;
+}
+.h3index {
+  text-decoration:overline;
+  color: rgb(190, 0, 225);
+}
+
+img {
+  border-width: 10px;
+  border-style: double;
+  border-radius: 10px;
+  margin: 15px;
+}
+.plist {
+  border-style: dotted;
+  border-radius: 10px;
+  border-width: 3px;
+  background-color: blanchedalmond;
+}
